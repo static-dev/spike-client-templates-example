@@ -1,5 +1,7 @@
 # client-templates-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/static-dev/spike-client-templates-example.svg)](https://greenkeeper.io/)
+
 basic client-side template configuration
 
 ## Setup
